@@ -63,14 +63,6 @@ I am a passionate open-source contributor! Some of my projects include:
 
 ---
 
-## 🤝 Let's Collaborate!
-
-I'm always open to collaborations in:
-- Machine learning applications in chemistry.
-- Large-scale simulation and analysis.
-- Big data infrastructure for scientific research.
-- Just to chat!
-
-Feel free to connect with me on [X](https://x.com/NickTerrel) or [LinkedIn](https://www.linkedin.com/in/nick-terrel-a55b34194/)!
+## 🤝 Connect with me on [X](https://x.com/NickTerrel) or [LinkedIn](https://www.linkedin.com/in/nick-terrel-a55b34194/)!
 
 ---
