@@ -1,8 +1,8 @@
 # Computational Chemist Specializing in Machine-Learned Interatomic Potential Models
 
-Hello there!  
+Hello there! 
 
-I'm a **computational chemist** with expertise in **machine-learned interatomic potential models**. My work focuses on implementing AI solutions to solve challenging problems in chemistry, particularly in the atomic behavior of **large-scale molecular simulations** and **reaction pathway discovery**.
+I'm a computational chemist with expertise in machine-learned interatomic potential models My work focuses on implementing AI solutions to challenging problems in chemistry, particularly in ensemble-based uncertainty and the atomic behavior of neural network potentials and their applications in large-scale molecular simulations and reaction pathway discovery.
 
 ---
 
@@ -21,30 +21,39 @@ I'm a **computational chemist** with expertise in **machine-learned interatomic 
 
 ## 🛠 Skills & Expertise
 
-- **Machine Learning in Chemistry:** PyTorch: deep neural networks, uncertainty quantification, predictive modeling.
-- **Software Development:** Bash, Python, CUDA, and high-performance computing experience.
-- **Big Data Management:** Processing terabytes of molecular trajectory data efficiently: filtering from TBs of raw data to GBs of useful data.
+- **Machine Learning in Chemistry:** Fast, accurate deep neural networks, uncertainty quantification, predictive modeling.
+  - Novel metrics of uncertainty quantification to estimate and identify high-error predictions of molecular energy.
 - **Simulation Analysis:** Identifying novel molecules, studying reaction dynamics, and exploring chemical trends.
+- **Big Data Management:** Processing hundreds of terabytes of molecular simulation data efficiently: filtering from TBs of raw trajectory data to GBs of useful data.
+  - NetworkX and CuGraph-based graph analysis of raw simulation data, optimized with careful filtering via string processing 
+  - Pandas, CuDF, and Dask for management of data frames that occupy tens of gigabytes of simulation data 
+- **Software Development:** High-performance computing via Bash, Python, and CUDA-accelerated programming; contributions to open-source computational chemistry software.
+- **Source Control** Git and GitHub, contributions via creating feature branches, submitting pull requests for review, collaborating with maintainers (code reviews and discussions), and experience as a maintainer/admin of open-source projects.
+- **Data Visualization:** Matplotlib, seaborn, plotly, 
 
 ---
 
 ## 📊 Current Projects
 
 - **Early Earth Hero Run Simulation**
-  - Leading the analysis of a massive 22.8 million atom molecular dynamics simulation using ANI potentials via a LAMMPS interface.
-  - Extracting millions of novel molecular conformations, including **amino acids**, **dipeptides**, **sugars**, and other prebiotic molecules.
+  - Reactive molecular dynamics simulations on the scale of 10<sup>7</sup> atoms using ANI potentials via a LAMMPS interface.
   - Scaling simulation and analysis workflows to test the limits of HiPerGator's supercomputing infrastructure.
 
 - **Graph-Based Molecular Discovery**
-  - Expanding graph-search algorithms to identify **novel compounds** while adhering to chemical valence rules and physicality. 
-  - Automating detection of reaction networks in large-scale datasets.
+  - Detection millions of novel molecular conformations, including **amino acids**, **dipeptides**, **sugars**, and other prebiotic molecules.
+  - Expanding graph-search algorithms to identify **novel compounds** from large-scale, ML-driven molecular dynamics simulations
+  - Automating detection of reaction networks from large-scale reactive simulations.
+
+- **LUKE: Use the Forces**
+  - ANI model ensemble uncertainty-based conformational searching
+  - Select localized atomic environments from highly uncertain atomic force predictions
 
 ---
 
 ## 💻 Open Source Contributions
 
 I am a passionate open-source contributor! Some of my projects include:
-- [ANI Models](https://github.com/aiqm/torchani) - Enhancing neural networks for chemistry; accurate quantum chemical predictions at ~10<sup>6</sup> times speedup.
+- [TorchANI](https://github.com/aiqm/torchani) - Neural network potentials; accurate quantum chemical predictions at ~10<sup>6</sup> times speedup.
 - [Big Early Earth Analysis](https://github.com/nterrel/early_earth_analysis) - Open pipelines for large-scale molecular dynamics trajectory analysis.
 
 ---
@@ -59,10 +68,10 @@ I am a passionate open-source contributor! Some of my projects include:
 
 - **Video Games**
   - Who would be surprised that someone who loves simulations of physics has an interest in video games...
-  - Since I was a kid I have thought that the physics engines in video games are fascinating, and largely attribute my caraeer choices to my interest in gaming. 
+  - Since I was a kid I have thought that the physics engines in video games are fascinating, and largely attribute my career choices to my interest in gaming. 
 
 ---
 
-## 🤝 Connect with me on [X](https://x.com/NickTerrel) or [LinkedIn](https://www.linkedin.com/in/nick-terrel-a55b34194/)!
+## Connect with me on [Bluesky](https://bsky.app/profile/nickterrel.bsky.social) or [LinkedIn](https://www.linkedin.com/in/nick-terrel-a55b34194/)!
 
 ---
