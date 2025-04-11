@@ -10,8 +10,9 @@ I'm a computational chemist with expertise in machine-learned interatomic potent
 
 - **ANI Developer in the Roitberg Group**
   - Development of generalized, transferable neural network potentials for approximating quantum chemical computations.
-  - Expanding the **ANAKIN-ME (Accurate NeurAl networK engINe for Molecular Energies)** software package with predictive uncertainty quantification and analysis.
   - Investigating trends in predicted **atomic energies** and **forces** to improve model accuracy.
+  - Expanding the **ANAKIN-ME (Accurate NeurAl networK engINe for Molecular Energies)** software package with predictive uncertainty quantification and analysis.
+  - Uncertainty-based substructure sampling with **LUKE: Use the Forces**.
 
 - **Large-Scale Reactive Simulations**
   - Simulating and analyzing the molecular dynamics of **millions of atoms**, identifying novel compounds and reaction pathways in *Early Earth* systems.
@@ -55,6 +56,7 @@ I'm a computational chemist with expertise in machine-learned interatomic potent
 I am a passionate open-source contributor! Some of my projects include:
 - [TorchANI](https://github.com/aiqm/torchani) - Neural network potentials; accurate quantum chemical predictions at ~10<sup>6</sup> times speedup.
 - [Big Early Earth Analysis](https://github.com/nterrel/early_earth_analysis) - Open pipelines for large-scale molecular dynamics trajectory analysis.
+- [LUKE: Use the Forces] - (Unreleased) Package for predictive uncertainty-based data sampling with ANI models
 
 ---
 
