@@ -27,10 +27,10 @@ I'm a computational chemist with expertise in machine-learned interatomic potent
 - **Simulation Analysis:** Identifying novel molecules, studying reaction dynamics, and exploring chemical trends.
 - **Big Data Management:** Processing hundreds of terabytes of molecular simulation data efficiently: filtering from TBs of raw trajectory data to GBs of useful data.
   - NetworkX and CuGraph-based graph analysis of raw simulation data, optimized with careful filtering via string processing 
-  - Pandas, CuDF, and Dask for management of data frames that occupy tens of gigabytes of simulation data 
+  - Pandas, CuDF, and Dask for management of data frames of filtered simulation data that occupy tens to hundreds of gigabytes on disk
 - **Software Development:** High-performance computing via Bash, Python, and CUDA-accelerated programming; contributions to open-source computational chemistry software.
 - **Source Control** Git and GitHub, contributions via creating feature branches, submitting pull requests for review, collaborating with maintainers (code reviews and discussions), and experience as a maintainer/admin of open-source projects.
-- **Data Visualization:** Matplotlib, seaborn, plotly, 
+- **Data Visualization:** Matplotlib, seaborn, plotly
 
 ---
 
@@ -56,7 +56,7 @@ I'm a computational chemist with expertise in machine-learned interatomic potent
 I am a passionate open-source contributor! Some of my projects include:
 - [TorchANI](https://github.com/aiqm/torchani) - Neural network potentials; accurate quantum chemical predictions at ~10<sup>6</sup> times speedup.
 - [Big Early Earth Analysis](https://github.com/nterrel/early_earth_analysis) - Open pipelines for large-scale molecular dynamics trajectory analysis.
-- [LUKE: Use the Forces] - (Unreleased) Package for predictive uncertainty-based data sampling with ANI models
+- [LUKE: Use the Forces] - (Unreleased) Package for predictive uncertainty-based data sampling with ANI models.
 
 ---
 
