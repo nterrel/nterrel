@@ -2,7 +2,8 @@
 
 Hello there! 
 
-I'm a computational chemist with expertise in machine-learned interatomic potential models My work focuses on implementing AI solutions to challenging problems in chemistry, particularly in ensemble-based uncertainty and the atomic behavior of neural network potentials and their applications in large-scale molecular simulations and reaction pathway discovery.
+I'm a computational chemist with expertise in machine-learned interatomic potential models. 
+My work focuses on implementing AI solutions to challenging problems in chemistry, particularly in ensemble-based uncertainty, the atomic behavior of neural network potentials, and their applications in large-scale molecular simulations and reaction pathway discovery.
 
 ---
 
@@ -34,7 +35,7 @@ I'm a computational chemist with expertise in machine-learned interatomic potent
 
 ---
 
-## 📊 Current Projects
+## 📊 Recent Projects
 
 - **Early Earth Hero Run Simulation**
   - Reactive molecular dynamics simulations on the scale of 10<sup>7</sup> atoms using ANI potentials via a LAMMPS interface.
@@ -56,7 +57,7 @@ I'm a computational chemist with expertise in machine-learned interatomic potent
 I am a passionate open-source contributor! Some of my projects include:
 - [TorchANI](https://github.com/aiqm/torchani) - Neural network potentials; accurate quantum chemical predictions at ~10<sup>6</sup> times speedup.
 - [Big Early Earth Analysis](https://github.com/nterrel/early_earth_analysis) - Open pipelines for large-scale molecular dynamics trajectory analysis.
-- [LUKE: Use the Forces] - (Unreleased) Package for predictive uncertainty-based data sampling with ANI models.
+- [LUKE: Use the Forces](https://github.com/roitberg-group/luke) - (Pre-release) Package for predictive uncertainty-based data sampling with ANI models.
 
 ---
 
