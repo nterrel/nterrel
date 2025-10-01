@@ -6,6 +6,12 @@ I'm a computational chemist with expertise in machine-learned interatomic potent
 My work focuses on implementing AI solutions to challenging problems in chemistry, particularly in ensemble-based uncertainty, the atomic behavior of neural network potentials, and their applications in large-scale molecular simulations and reaction pathway discovery.
 
 ---
+## What I'm currently building
+- **mini-LLMs:** [LLMini](https://github.com/nterrel/llmini) — compact GPT-style transformer models trained on TinyShakespeare and WikiText datasets.
+- **C++ project:** [cpp-rng-simulator](https://github.com/nterrel/cpp-rng-simulator) — small, modern CMake project to perform random number generation and sampling techniques.
+- **Games / graphics:** [Mythic-Depths](https://github.com/nterrel/mythic-depths) — procedurally generated Python dungeon crawler RPG built with PyGame.
+
+---
 
 ## 🔬 Research Highlights
 
