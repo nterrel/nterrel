@@ -7,6 +7,7 @@ My work focuses on implementing AI solutions to challenging problems in chemistr
 
 ---
 ## What I'm currently building
+- **ani-mm:** [ani-mm](https://github.com/nterrel/ani-mm) - OpenMM dynamics runner using public ANI potential models, includes live GUI viewer and CLI utilities
 - **mini-LLMs:** [LLMini](https://github.com/nterrel/llmini) — compact GPT-style transformer models trained on TinyShakespeare and WikiText datasets.
 - **C++ project:** [cpp-rng-simulator](https://github.com/nterrel/cpp-rng-simulator) — small, modern CMake project to perform random number generation and sampling techniques.
 - **Games / graphics:** [Mythic-Depths](https://github.com/nterrel/mythic-depths) — procedurally generated Python dungeon crawler RPG built with PyGame.
