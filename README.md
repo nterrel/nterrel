@@ -9,7 +9,7 @@ My work focuses on implementing AI solutions to challenging problems in chemistr
 ## What I'm currently building
 - **ani-mm:** [ani-mm](https://github.com/nterrel/ani-mm) - OpenMM dynamics runner using public ANI potential models, includes live GUI viewer and CLI utilities
 - **mini-LLMs:** [LLMini](https://github.com/nterrel/llmini) — compact GPT-style transformer models trained on TinyShakespeare and WikiText datasets.
-- **C++ project:** [cpp-rng-simulator](https://github.com/nterrel/cpp-rng-simulator) — small, modern CMake project to perform random number generation and sampling techniques.
+- **C++ project:** [cpp-rng-simulator](https://github.com/nterrel/cpp-rng-simulator) —  modular C++ project demonstrating random sampling and RNG algorithms.
 - **Games / graphics:** [Mythic-Depths](https://github.com/nterrel/mythic-depths) — procedurally generated Python dungeon crawler RPG built with PyGame.
 
 ---
@@ -30,15 +30,12 @@ My work focuses on implementing AI solutions to challenging problems in chemistr
 
 ## 🛠 Skills & Expertise
 
-- **Machine Learning in Chemistry:** Fast, accurate deep neural networks, uncertainty quantification, predictive modeling.
-  - Novel metrics of uncertainty quantification to estimate and identify high-error predictions of molecular energy.
-- **Simulation Analysis:** Identifying novel molecules, studying reaction dynamics, and exploring chemical trends.
-- **Big Data Management:** Processing hundreds of terabytes of molecular simulation data efficiently: filtering from TBs of raw trajectory data to GBs of useful data.
-  - NetworkX and CuGraph-based graph analysis of raw simulation data, optimized with careful filtering via string processing 
-  - Pandas, CuDF, and Dask for management of data frames of filtered simulation data that occupy tens to hundreds of gigabytes on disk
-- **Software Development:** High-performance computing via Bash, Python, and CUDA-accelerated programming; contributions to open-source computational chemistry software.
-- **Source Control** Git and GitHub, contributions via creating feature branches, submitting pull requests for review, collaborating with maintainers (code reviews and discussions), and experience as a maintainer/admin of open-source projects.
-- **Data Visualization:** Matplotlib, seaborn, plotly
+- **ML in Chemistry:** Deep neural potentials, ensemble uncertainty, predictive modeling.
+- **Simulation Analysis:** Large-scale MD, fragment identification, reaction pathway mapping.
+- **Big Data Management:** CuDF, Dask, and NetworkX/CuGraph for analyzing 100 TB+ trajectory datasets.
+- **Software Development:** Python, CUDA, Bash, HPC optimization, open-source contributions.
+- **Source Control** Git/GitHub workflows, feature branching, code review.
+- **Visualization:** VMD, PyMOL, Matplotlib, Seaborn, Plotly
 
 ---
 
@@ -46,7 +43,7 @@ My work focuses on implementing AI solutions to challenging problems in chemistr
 
 - **Early Earth Hero Run Simulation**
   - Reactive molecular dynamics simulations on the scale of 10<sup>7</sup> atoms using ANI potentials via a LAMMPS interface.
-  - Scaling simulation and analysis workflows to test the limits of HiPerGator's supercomputing infrastructure.
+  - Scaling simulation and analysis workflows to benchmark HiPerGator's supercomputing infrastructure.
 
 - **Graph-Based Molecular Discovery**
   - Detection millions of novel molecular conformations, including **amino acids**, **dipeptides**, **sugars**, and other prebiotic molecules.
